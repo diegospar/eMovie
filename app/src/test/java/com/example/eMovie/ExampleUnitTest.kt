@@ -1,4 +1,4 @@
-package com.example.mvvmapp
+package com.example.eMovie
 
 import org.junit.Test
 

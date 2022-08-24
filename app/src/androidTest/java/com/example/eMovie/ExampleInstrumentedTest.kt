@@ -1,4 +1,4 @@
-package com.example.mvvmapp
+package com.example.eMovie
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
