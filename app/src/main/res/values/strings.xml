@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MVVMApp</string>
+    <string name="app_name">eMovie</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_1">Próximos estrenos</string>
+    <string name="category_2">Tendencia</string>
+    <string name="category_3">Recomendados para ti</string>
+    <string name="filter_1">En español</string>
+    <string name="filter_2">Lanzadas en 1998</string>
 </resources>
