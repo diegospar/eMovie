@@ -18,4 +18,17 @@ class MoviesRepository {
         MoviesProvider.topRatedMovies= response
         return response
     }
+
+    suspend fun getMoviesByLanguage():List<MovieModel>{
+        val response=api.getMoviesByLanguage()
+        MoviesProvider.moviesByLanguage= response
+        return response
+    }
+
+    suspend fun getMoviesByDate():List<MovieModel>{
+        val response=api.getMoviesByReleaseDate()
+        MoviesProvider.moviesByDate= response
+        return response
+    }
+
 }

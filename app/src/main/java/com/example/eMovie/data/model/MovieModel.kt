@@ -4,6 +4,7 @@ import com.google.gson.annotations.SerializedName
 
 data class MovieModel(
     @SerializedName("id") var id: String?,
+    @SerializedName("title") var title:String,
     @SerializedName("poster_path") var poster: String,
     @SerializedName("original_language") var language: String,
     @SerializedName("vote_average") var average: String,

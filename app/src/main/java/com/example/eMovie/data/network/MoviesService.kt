@@ -20,4 +20,14 @@ class MoviesService {
 
     }
 
+    suspend fun getMoviesByLanguage(): List<MovieModel> {
+        val response = retrofit.create(DiscoverAPIClient::class.java).getMovies(language = "es-MX")
+        return response.body()?.movies ?: emptyList()
+    }
+
+    suspend fun getMoviesByReleaseDate(): List<MovieModel> {
+        val response = retrofit.create(DiscoverAPIClient::class.java).getMovies(year = 1998)
+        return response.body()?.movies ?: emptyList()
+    }
+
 }
