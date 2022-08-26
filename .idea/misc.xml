@@ -4,8 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/diego/AndroidStudioProjects/MVVMApp/app/src/main/res/layout/activity_main.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable-v24/textview_backGround.xml" value="0.1605" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/background_gradient_down.xml" value="0.1025" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/background_gradient_up.xml" value="0.1025" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/ic_emovie.xml" value="0.1" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/ic_star.xml" value="0.1365" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/text_background.xml" value="0.1605" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/drawable/textview_border.xml" value="0.1015" />
         <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
-        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/fragment_detail.xml" value="0.14817629179331307" />
+        <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
         <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/item_poster.xml" value="0.286231884057971" />
         <entry key="..\:/Users/diego/Documents/GitHub/eMovie/app/src/main/res/layout/item_recomendations_poster.xml" value="0.11322463768115942" />
